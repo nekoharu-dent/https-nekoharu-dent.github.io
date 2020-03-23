@@ -11,6 +11,7 @@ a {
   width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
+  text-align: center;
 }
 
 .top-wrapper {
@@ -19,7 +20,7 @@ a {
   background-image: url(https://prog-8.com/images/html/advanced/top.png);
   background-size: cover;
   color: white;
-  text-align: center;
+  
 }
 
 .top-wrapper h1 {
@@ -110,7 +111,7 @@ header {
   height: 500px;
   padding-bottom: 80px;
   background-color: #f7f7f7;
-  text-align: center;
+  width:100%;
 }
 
 .heading {
