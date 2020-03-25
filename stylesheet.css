@@ -92,7 +92,7 @@ header {
 .header-left {
   float: left;
 }
-.menu-icon{
+.fa-bars{
   display:none;
   color:white;
   padding-top:21px;
@@ -215,7 +215,7 @@ footer {
 
 @media  all and (max-width:670px)
 {
-  .menu-icon{
+  .fa-bars{
   display:block;
   }
   .header-right{
@@ -224,11 +224,11 @@ footer {
   
   .top-wrapper h1{
   font-size:24px;
-    text-align:left;
+    
   }
   .top-wrapper p{
   font-size:14px;
-    text-align:left;
+    
   }
   .lesson{
   width:100%;
