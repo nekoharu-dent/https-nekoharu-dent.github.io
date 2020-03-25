@@ -92,9 +92,10 @@ header {
 .header-left {
   float: left;
 }
+
 .fa-bars{
 display:none;
-color:white;
+color:red;
 padding-top:21px;
 font-size:25px;
 float:right;
