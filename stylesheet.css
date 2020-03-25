@@ -93,15 +93,6 @@ header {
 .header-left {
   float: left;
 }
-.menu-icon{
-display:none;
-}
-.fa-bars{
-  color:white;
-  padding-top:21px;
-  font-size:40px;
-  float:right;
-}
 
 .header-right {
   float: right;
