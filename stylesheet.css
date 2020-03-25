@@ -196,7 +196,7 @@ footer {
   padding-top: 30px;
 }
 
-@media(max-width:1000px)
+＠media(max-width:1000px)
 {
   .top-wrapper h1{
   font-size:32px;
@@ -213,7 +213,7 @@ footer {
   }
 }
 
-@media(max-width:670px)
+＠media(max-width:670px)
 {
   .fa-bars{
   display:block;
