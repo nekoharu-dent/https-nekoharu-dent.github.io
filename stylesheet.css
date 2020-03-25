@@ -93,11 +93,13 @@ header {
 .header-left {
   float: left;
 }
+.menu-icon{
+display:none;
+}
 .fa-bars{
-  display:none;
   color:white;
   padding-top:21px;
-  font-size:50px;
+  font-size:40px;
   float:right;
 }
 
