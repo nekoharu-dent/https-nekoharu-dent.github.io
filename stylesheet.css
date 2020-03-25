@@ -221,21 +221,21 @@ footer {
   .header-right{
   display:none;    
   }
-  .top-wrapper{
-  float:left;
-  }
+  
   .top-wrapper h1{
   font-size:24px;
+    float:left;
   }
   .top-wrapper p{
   font-size:14px;
+    float:left;
   }
   .lesson{
   width:100%;
   margin-bottom:50px;
   }
   .btn{
-  wifth:100%;
+  width:100%;
   }
   .facebook{
   margin-bottom:10px;
